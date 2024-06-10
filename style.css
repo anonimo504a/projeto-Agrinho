@@ -4,6 +4,10 @@
     text-align: right;
   }
 
+header{
+    width: 20%;
+}
+
 .titulo{
     font-size: 50px;
     font-style: italic;
