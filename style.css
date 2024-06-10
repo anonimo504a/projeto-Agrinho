@@ -5,9 +5,10 @@
   }
 
 header{
-    width: 2000px;
-    height: 400px;
 
+ .imagem-topo{
+    width: 40%;
+ }
 }
 
 .titulo{
