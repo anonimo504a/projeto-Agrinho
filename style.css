@@ -4,6 +4,18 @@
     text-align: center;
   }
 
+
+.titulo{
+    font-size: 50px;
+    font-style: italic;
+    color: rgb(90, 141, 83);
+    margin-left: 40px ;
+}
+
+body{
+    background-color: rgb(191, 219, 175);
+}
+
 /* Estilo para o cabeçalho */
 .header {
     width: 100%; /* Garante que o cabeçalho ocupe toda a largura da tela */
@@ -17,16 +29,4 @@
     width: 100%; /* Faz a imagem ocupar toda a largura do cabeçalho */
     height: 100%; /* Faz a imagem ocupar toda a altura do cabeçalho */
     object-fit: cover; /* Faz a imagem cobrir todo o espaço disponível mantendo sua proporção */
-}
-
-
-.titulo{
-    font-size: 50px;
-    font-style: italic;
-    color: rgb(90, 141, 83);
-    margin-left: 40px ;
-}
-
-body{
-    background-color: rgb(191, 219, 175);
 }
