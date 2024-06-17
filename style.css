@@ -16,17 +16,21 @@ body{
     background-color: rgb(191, 219, 175);
 }
 
-/* Estilo para o cabeçalho */
+/* Estilo para o cabeçalho
 .header {
     width: 100%; /* Garante que o cabeçalho ocupe toda a largura da tela */
-    height: 200px; /* Altura do cabeçalho */
-    background-color: #333; /* Cor de fundo do cabeçalho */
-    position: relative; /* Define a posição como relativa */
-}
+   /* height: 200px;  Altura do cabeçalho */
+    /*background-color: #333; /* Cor de fundo do cabeçalho */
+   /* position: relative; /* Define a posição como relativa */
+/*}
 
 /* Estilo para a imagem no cabeçalho */
-.header img {
+/*.header img {
     width: 100%; /* Faz a imagem ocupar toda a largura do cabeçalho */
-    height: 100%; /* Faz a imagem ocupar toda a altura do cabeçalho */
-    object-fit: cover; /* Faz a imagem cobrir todo o espaço disponível mantendo sua proporção */
+  /*  height: 100%; /* Faz a imagem ocupar toda a altura do cabeçalho */
+   /* object-fit: cover; /* Faz a imagem cobrir todo o espaço disponível mantendo sua proporção */
+/*} */
+
+.header.imagem-topo{
+    width: 100vw;
 }
