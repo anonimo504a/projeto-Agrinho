@@ -28,5 +28,5 @@ body{
 .header img {
     width: 100%; /* Faz a imagem ocupar toda a largura do cabeçalho */
     height: 100%; /* Faz a imagem ocupar toda a altura do cabeçalho */
-    object-fit: cover; /* Faz a imagem cobrir todo o espaço disponível mantendo sua proporção */
+   
 }
