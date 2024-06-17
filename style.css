@@ -31,6 +31,7 @@ body{
    /* object-fit: cover; /* Faz a imagem cobrir todo o espaço disponível mantendo sua proporção */
 /*} */
 
-.header.imagem-topo{
+header .imagem-topo{
     width: 100vw;
+  height:30vw;
 }
