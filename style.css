@@ -7,7 +7,6 @@
 
 .titulo{
     font-size: 100px;
-    font-family: gagalin;
     color: #2a3204;
     margin-left: 40px ;
 }
@@ -22,7 +21,11 @@ header .imagem-topo{
   height:30vw;
 }
 
-.pergunta1{
-  font-size: 40px;
-  margin-left: -400;
+
+
+li{
+
+  font-size: 30px;
+  text-align:left;
+  margin-left: 100px;
 }
