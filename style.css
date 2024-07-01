@@ -22,23 +22,7 @@ header .imagem-topo{
   height:30vw;
 }
 
-.pergunta1{
+.perguntas{
   font-size: 40px;
-  border-left: 30px;
- 
-}
-
-.pergunta2{
-  font-size: 40px;
-
-}
-
-.pergunta3{
-  font-size: 40px;
-
-}
-
-.pergunta4{
-  font-size: 40px;
- 
+  margin-left: -400;
 }
