@@ -69,19 +69,23 @@ li{
   .texto1 {
     font-size: 25px;
    padding: 60px;
+   text-align: center;
   }
 
   .texto2 {
     font-size: 25px;
     padding: 60px;
+    text-align: center;
   }
 
   .texto3 {
     font-size: 25px;
     padding: 60px;
+    text-align: center;
   }
 
   .texto4 {
     font-size: 25px; 
     padding: 60px;
+    text-align: center;
   }
