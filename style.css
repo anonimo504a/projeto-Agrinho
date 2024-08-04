@@ -73,21 +73,15 @@ li{
 
   .texto2 {
     font-size: 25px;
+    padding: 30px;
   }
 
   .texto3 {
     font-size: 25px;
+    padding: 30px;
   }
 
   .texto4 {
-    font-size: 25px;
-  }
-
-  li .tex3 {
-    font-size: 25px;
-    text-align:left;
-    margin-left: 100px;
-    margin-top: 10px;
-    color: #2A3204;
-
+    font-size: 25px; 
+    padding: 30px;
   }
