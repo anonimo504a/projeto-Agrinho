@@ -108,3 +108,10 @@ margin-top: 60px;
   text-align: center;
   color: #2A3204;
 }
+
+.drone {
+  width:20vw;
+  height:30vw;
+  margin-left: 250px;
+
+}
