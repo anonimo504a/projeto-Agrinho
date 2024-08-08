@@ -110,8 +110,9 @@ margin-top: 60px;
 }
 
 .drone {
+  margin-top: -200px;
   width:20vw;
-  height:30vw;
+  height:20vw;
   margin-left: 250px;
 
 }
